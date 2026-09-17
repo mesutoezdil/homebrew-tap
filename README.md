@@ -1,9 +1,9 @@
 # homebrew-tap
 
-Homebrew formulae for [accel](https://github.com/mesutoezdil/accel), the terminal monitor for GPUs, NPUs, and other AI accelerators.
+Homebrew formulae for [siltide](https://github.com/mesutoezdil/siltide), the terminal monitor for GPUs, NPUs, and other AI accelerators.
 
 ```sh
-brew install mesutoezdil/tap/accel
+brew install mesutoezdil/tap/siltide
 ```
 
-`Formula/accel.rb` is rendered by `scripts/update.sh` from the newest accel release and refreshed by a workflow every 6 hours. It points at a stable release when one exists and at the newest `main` pre-release until then.
+`Formula/siltide.rb` is rendered by `scripts/update.sh` from the newest siltide release and refreshed by a workflow every 6 hours. It points at a stable release when one exists and at the newest `main` pre-release until then.
